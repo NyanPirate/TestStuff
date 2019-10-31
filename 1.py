@@ -49,7 +49,7 @@ is also one of his very best, scaring the hell out of me and making me sure to g
 talking to a ghost from inside a walk-in refrigerator. The Shining is tops for horror movies in my opinion, beating the snot out\
  of crap like the Ring and The Blair Witch Project. It may be a oldie, but is definitely a goodie."
 
-who = (paul,jane,kate,nick, )
+who = (paul,jane,kate,nick)
 for i in who:
     print(i)
 """
