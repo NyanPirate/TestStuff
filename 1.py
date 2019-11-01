@@ -52,6 +52,7 @@ talking to a ghost from inside a walk-in refrigerator. The Shining is tops for h
 who = (paul,jane,kate,nick)
 for i in who:
     print(i)
+    #
 """
 paul = paul.lower()
 paul = paul.replace(",", "")
